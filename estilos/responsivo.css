@@ -219,3 +219,24 @@
         font-size: 90%;
     }
 }
+@media(max-width: 399px){
+    .home{
+        height: 100vh;
+    }
+}
+@media(max-width: 335px){
+    .home{
+        height: 85vh;
+        margin-bottom: 0;
+    }
+    .home-image{
+        display: none;
+    }
+    .product-link-item img{
+        width: 110px;
+    }
+    .bones img{
+        height: 170px;
+        width: auto;
+    }
+}
