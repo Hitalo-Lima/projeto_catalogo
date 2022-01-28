@@ -46,7 +46,10 @@
 
 @media(max-width: 768px){
     .main-content{
-        margin-top: 15vh;
+        margin-top: 100px;
+    }
+    .home{
+        margin-bottom: 200px;
     }
     .product-links{
         flex-direction: column;
@@ -194,4 +197,25 @@
     }
     
 }
-
+@media(max-width: 500px){
+    .header-wrapper{
+        margin: 0;
+        padding: 1em 2em;
+    }
+    .home{
+        height: 85vh;
+        margin-bottom: 100px;
+    }
+    .home-text > h1{
+        font-size: 2.7em;
+    }
+    .home-text > h2{
+        font-size: 1.4em
+    }
+    .main-content{
+        margin: 0;
+    }
+    .footer{
+        font-size: 90%;
+    }
+}
