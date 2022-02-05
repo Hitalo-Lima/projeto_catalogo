@@ -102,6 +102,7 @@
     }
 }
 @media(max-width: 667px){
+    
     .header-wrapper{
         margin: 0 2em;
     }
@@ -143,7 +144,7 @@
        width: 100vw;
        height: 100vh;
        z-index: 99;
-
+       overflow: hidden;
        display: flex;
        align-items: center;
        justify-content: center;
