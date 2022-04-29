@@ -3,6 +3,12 @@ Um site de catálogo de produtos responsivo.
 
 Mais informações na seção: Sobre o site
 
+## Wireframe do site (Figma)
+<br>
+<h1 align="center">
+    <img alt="view-desk" src="imagens/wireframe.gif">
+</h1>
+
 ## Visualização Desktop
 <br>
 <h1 align="center">
